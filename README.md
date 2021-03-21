@@ -7,3 +7,6 @@ Rental management system is one very helpful for everyone, because no one can
 reach all possible options and check whether it is affordable and convenient to live in. With
 the help of rental management system we can find all the house which are for available for
 rent.
+
+SOFTWARE REQUIRMENTS:
+Any basic JAVA compiler such a GCC compiler or Oracle software or any other which supports java and a database to access data and retrieve data.
